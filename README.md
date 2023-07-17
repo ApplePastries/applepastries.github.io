@@ -9,3 +9,5 @@ Important Dates:
 
 
 
+Note to Self: Preview sites are slow to update and pushed changes may take
+a few minutes to reflect those changes.

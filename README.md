@@ -1,8 +1,11 @@
 # odin-recipes
-Repo for TOP recipes project.
+This repository hosts the live previews for my current projects.
 
-Mission statement:
-This project should demonstrate my current HTML skills while also allowing me to continue to expand those skills.
-7-14-2023
+Link: [Site Homepage](https://applepastries.github.io/)
+
+Important Dates:
+	- Odin Recipes added 7/17/2023
+
+
 
 

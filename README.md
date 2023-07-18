@@ -1,4 +1,4 @@
-# odin-recipes
+# Live Preview Site Repo
 This repository hosts the live previews for my current projects.
 
 Link: [Site Homepage](https://applepastries.github.io/)

@@ -4,7 +4,7 @@ body {
     text-transform: uppercase;
     font-size: 2vw;
     text-align: center;
-    color: white;
+    color: whitesmoke;
     background-color: green;
     opacity: 1;
 }
@@ -14,8 +14,8 @@ div {
     margin-right: 20vw;
     text-align: left;
     font-size: 2vw;
-    background-color: whitesmoke;
-    border: 15px solid black;
+    background-color: black;
+    border: 15px solid whitesmoke;
 }
 
 #header {

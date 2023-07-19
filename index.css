@@ -1,0 +1,51 @@
+body {
+    font-family: "architectsDaughter", "amythysta", sans-serif;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    font-size: 2vw;
+    text-align: center;
+    color: white;
+    background-color: green;
+    opacity: 1;
+}
+
+div {
+    margin-left: 20vw;
+    margin-right: 20vw;
+    text-align: left;
+    font-size: 2vw;
+    background-color: whitesmoke;
+    border: 15px solid black;
+}
+
+#header {
+    margin-top: 0;
+    font-weight: bold;
+    background-color: black;
+    border: 15px solid white;
+}
+
+#image {
+    height: auto;
+    width: 1250px;
+    border: 15px solid white;
+    }
+
+#image-label {
+    font-size: 18px;
+    font-weight: bold
+}
+
+#link {
+    font-size: 2vw
+}
+
+@font-face {
+    font-family: "architectsDaughter";
+    src: url(fonts/architectsDaughter.ttf);
+}
+
+@font-face {
+    font-family: "amethysta";
+    src: url(fonts/amethysta.ttf);
+}
